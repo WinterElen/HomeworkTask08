@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Seminars\HomeworkTask08\obj\Debug\net6.0\HomeworkTask08.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Seminars\HomeworkTask08\obj\Debug\net6.0\HomeworkTask08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Seminars\HomeworkTask08\obj\Debug\net6.0\HomeworkTask08.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Seminars\HomeworkTask08\obj\Debug\net6.0\HomeworkTask08.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Seminars\HomeworkTask08\obj\Debug\net6.0\HomeworkTask08.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Seminars\HomeworkTask08\bin\Debug\net6.0\HomeworkTask08.exe
+C:\Users\Asus\Desktop\Seminars\HomeworkTask08\bin\Debug\net6.0\HomeworkTask08.deps.json
+C:\Users\Asus\Desktop\Seminars\HomeworkTask08\bin\Debug\net6.0\HomeworkTask08.runtimeconfig.json
+C:\Users\Asus\Desktop\Seminars\HomeworkTask08\bin\Debug\net6.0\HomeworkTask08.dll
+C:\Users\Asus\Desktop\Seminars\HomeworkTask08\bin\Debug\net6.0\HomeworkTask08.pdb
+C:\Users\Asus\Desktop\Seminars\HomeworkTask08\obj\Debug\net6.0\HomeworkTask08.dll
+C:\Users\Asus\Desktop\Seminars\HomeworkTask08\obj\Debug\net6.0\refint\HomeworkTask08.dll
+C:\Users\Asus\Desktop\Seminars\HomeworkTask08\obj\Debug\net6.0\HomeworkTask08.pdb
+C:\Users\Asus\Desktop\Seminars\HomeworkTask08\obj\Debug\net6.0\HomeworkTask08.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Seminars\HomeworkTask08\obj\Debug\net6.0\ref\HomeworkTask08.dll
