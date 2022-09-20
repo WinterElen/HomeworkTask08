@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Seminars\HomeWorkTask10\bin\Debug\net6.0\HomeWorkTask10.exe
+C:\Users\Asus\Desktop\Seminars\HomeWorkTask10\bin\Debug\net6.0\HomeWorkTask10.deps.json
+C:\Users\Asus\Desktop\Seminars\HomeWorkTask10\bin\Debug\net6.0\HomeWorkTask10.runtimeconfig.json
+C:\Users\Asus\Desktop\Seminars\HomeWorkTask10\bin\Debug\net6.0\HomeWorkTask10.dll
+C:\Users\Asus\Desktop\Seminars\HomeWorkTask10\bin\Debug\net6.0\HomeWorkTask10.pdb
+C:\Users\Asus\Desktop\Seminars\HomeWorkTask10\obj\Debug\net6.0\HomeWorkTask10.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Seminars\HomeWorkTask10\obj\Debug\net6.0\HomeWorkTask10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Seminars\HomeWorkTask10\obj\Debug\net6.0\HomeWorkTask10.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Seminars\HomeWorkTask10\obj\Debug\net6.0\HomeWorkTask10.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Seminars\HomeWorkTask10\obj\Debug\net6.0\HomeWorkTask10.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Seminars\HomeWorkTask10\obj\Debug\net6.0\HomeWorkTask10.dll
+C:\Users\Asus\Desktop\Seminars\HomeWorkTask10\obj\Debug\net6.0\refint\HomeWorkTask10.dll
+C:\Users\Asus\Desktop\Seminars\HomeWorkTask10\obj\Debug\net6.0\HomeWorkTask10.pdb
+C:\Users\Asus\Desktop\Seminars\HomeWorkTask10\obj\Debug\net6.0\HomeWorkTask10.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Seminars\HomeWorkTask10\obj\Debug\net6.0\ref\HomeWorkTask10.dll
